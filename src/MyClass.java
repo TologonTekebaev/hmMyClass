@@ -10,6 +10,7 @@ public class MyClass {
     public MyClass(){
 
     }
+
     public MyClass (String firstName, String lastName,
                    int age, String region, float height) {
         this.firstName = firstName;
